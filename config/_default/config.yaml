@@ -73,3 +73,7 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+module:
+  imports:
+    # Your widget's GitHub URL (replace <USERNAME> and <WIDGET-NAME> with your GitHub username and widget name)
+    - path: github.com/JayiaWang/wowchemy-widget-posts
